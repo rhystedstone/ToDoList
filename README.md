@@ -1,5 +1,5 @@
 # To-Do List
-A simple plugin that manages a simple to-do list for servers. This plugin can be used by everyone, or, configured for only specific players.
+A simple plugin that manages a simple to-do list for servers. This plugin can be used by everyone, or, configured for only specific players. There are no dependcies required.
 # Usage
 - /todolist - Lists your tasks in chronological order, with a numerical ID along the left margin
 - /todo <task> - Will add a task to your to-do list
